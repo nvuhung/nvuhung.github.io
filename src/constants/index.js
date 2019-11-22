@@ -16,6 +16,11 @@ export const data = {
       icon: 'fab fa-github-alt fa-fw'
     },
     {
+      link: 'http://nvuhung.info',
+      content: 'nvuhung.info',
+      icon: 'fas fa-globe'
+    },
+    {
       link: 'skype:nvuhungit?chat',
       content: 'nvuhungit',
       icon: 'fab fa-skype'
