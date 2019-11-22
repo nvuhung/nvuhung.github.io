@@ -193,12 +193,26 @@ const Body = ({ data }) => (
   </div>
 )
 
+const FloatButton = () => (
+  <a
+    title="Download CV"
+    rel="noopener noreferrer"
+    target="_blank"
+    href="/CV.pdf"
+    download="CV_NguyenVuHung"
+    className="float-btn"
+  >
+    <i className="fa fa-download"></i>
+  </a>
+)
+
 const App = () => (
   <article className="resume-wrapper text-center position-relative">
     <div className="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
       <Header data={data} />
       <Body data={data} />
     </div>
+    <FloatButton />
   </article>
 )
 
