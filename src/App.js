@@ -53,7 +53,7 @@ const Projects = ({ projects, title }) => (
             <div className="resume-timeline-item-header mb-2">
               <div className="d-flex flex-column flex-md-row">
                 <h3 className="resume-position-title font-weight-bold mb-1">{item.title}</h3>
-                <div className="resume-company-name ml-auto">{item.company}</div>
+                <div className="resume-company-name ml-auto" dangerouslySetInnerHTML={{ __html: item.company }} />
               </div>
               <div className="resume-position-time">{item.time}</div>
             </div>

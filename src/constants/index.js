@@ -102,7 +102,7 @@ export const data = {
       title: 'Freelancer',
       time: 'Sep 2019 - Present',
       description:
-        'Work directly with a French developer and use React and React Native to to build 2 websites and 2 apps',
+        'Work directly with a French developer and use React and React Native to to build 2 websites and 2 apps:',
       projects: [
         "<strong>Paper</strong> - <a target='_blank' href='https://paperimmo.fr/'>https://paperimmo.fr/</a> - A real estate platform, receive the latest real estate listings in real time.",
         "<strong>Lespeakers</strong> -  <a target='_blank' href='https://lespeakers.com/'>https://lespeakers.com/</a> - A platform linking conference and event organizer"
@@ -147,33 +147,33 @@ export const data = {
       ]
     },
     {
-      company: 'Spiraledge',
+      company: '<a target="_blank" href="https://spiraledge.com/">Spiraledge</a>',
       title: 'Senior Front End Developer',
       time: 'Jan 2016 - Feb 2018',
       description: 'Became Senior Front End Developer after 1 year, I joined some projects:',
       projects: [
         '<strong>Practyce</strong>: Working with 1 backend developer to build Practyce website, help everyone can search, learn and practice yoga at home with expert yoga instructors.',
-        '<strong>Tend</strong>: The first software platform with advanced data analytics specifically designed for diversified and small- to mid-sized organic farms'
+        '<strong><a href="https://www.tend.com/" target="_blank">Tend</a></strong>: The first software platform with advanced data analytics specifically designed for diversified and small- to mid-sized organic farms'
       ],
       technologies_used: ['AngularJS', 'HTML/CSS/LESS', 'Typescript', 'Angular', 'JQuery', 'Gulp', 'Google Charts']
     },
     {
-      company: 'CSC',
+      company: '<a target="_blank" href="https://www.dxc.technology/">CSC</a>',
       title: 'Front End Developer',
       time: 'Sep 2014 - Jan 2016',
       description:
         'Passed Java Fresher at CSC with the best scores and then join a team with over 50 members. In additional to being a Front End Developer, I also became an trainers to train newcomers. Here are some projects I joined:',
       projects: [
         '<strong>iPOS</strong>: A portal system for insurance, it handles the complex calculations, and transaction for insurance products.',
-        '<strong>eTiQa</strong>: In only 4 months, 2 other developers and I built built successfully DPI Website for client to buy online insurance product. This is one of first direct-sale website for an Insurance Company in Singapore.',
-        '<strong>Tokio Marine</strong>: Building new products for Tokio Marine – an insurance company in Japan. Working with a team of 3 developers and 1 QC for only 2 weeks. We built 2 new products successfully along with over 5 other products developed earlier.'
+        '<strong><a href="https://www.etiqa.com.sg/personal/life-insurance/life-protection/" target="_blank">eTiQa</a></strong>: In only 4 months, 2 other developers and I built built successfully DPI Website for client to buy online insurance product. This is one of first direct-sale website for an Insurance Company in Singapore.',
+        '<strong><a href="https://www.tokiomarine.com/sg/en/personal/protect/protect-your-health.html" target="_blank">Tokio Marine</a></strong>: Building new products for Tokio Marine – an insurance company in Japan. Working with a team of 3 developers and 1 QC for only 2 weeks. We built 2 new products successfully along with over 5 other products developed earlier.'
       ],
       technologies_used: ['AngularJS', 'HTML/CSS', 'JQuery', 'Java', 'SpringMVC', 'XML', 'MySQL']
     }
   ],
   other_projects: [
     {
-      company: 'https://www.mouldflo.com/',
+      company: '<a target="_blank" href="https://www.mouldflo.com/">https://www.mouldflo.com/</a>',
       title: 'Mouldflo',
       time: 'Nov 2019 - Present',
       description:
@@ -182,7 +182,7 @@ export const data = {
       technologies_used: ['Angular', 'Typescript', 'HTML/SASS']
     },
     {
-      company: 'https://deskpro.github.io/',
+      company: '<a target="_blank" href="https://deskpro.github.io/">https://deskpro.github.io/</a>',
       title: 'Deskpro',
       time: 'Otc 2019 - Nov 2019',
       description:
@@ -191,7 +191,7 @@ export const data = {
       technologies_used: ['React', 'Typescript', 'Styled Components', 'Storybook']
     },
     {
-      company: 'https://tourhawaiiapp.com/',
+      company: '<a target="_blank" href="https://tourhawaiiapp.com/">https://tourhawaiiapp.com/</a>',
       title: 'Tour Hawaii',
       time: 'Sep 2019 - Otc 2019',
       description:
