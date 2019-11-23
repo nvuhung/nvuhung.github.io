@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nvuhung.github.io/static/css/main.b4ba5114.chunk.css",
-    "main.js": "/nvuhung.github.io/static/js/main.4d074561.chunk.js",
-    "main.js.map": "/nvuhung.github.io/static/js/main.4d074561.chunk.js.map",
+    "main.js": "/nvuhung.github.io/static/js/main.bc52d1bf.chunk.js",
+    "main.js.map": "/nvuhung.github.io/static/js/main.bc52d1bf.chunk.js.map",
     "runtime-main.js": "/nvuhung.github.io/static/js/runtime-main.404d1518.js",
     "runtime-main.js.map": "/nvuhung.github.io/static/js/runtime-main.404d1518.js.map",
     "static/js/2.2e088c17.chunk.js": "/nvuhung.github.io/static/js/2.2e088c17.chunk.js",
     "static/js/2.2e088c17.chunk.js.map": "/nvuhung.github.io/static/js/2.2e088c17.chunk.js.map",
     "index.html": "/nvuhung.github.io/index.html",
-    "precache-manifest.1f6495baadd45d2c78003775ed54ce4b.js": "/nvuhung.github.io/precache-manifest.1f6495baadd45d2c78003775ed54ce4b.js",
+    "precache-manifest.200ed004a9f21110c264a0cbf6dc193c.js": "/nvuhung.github.io/precache-manifest.200ed004a9f21110c264a0cbf6dc193c.js",
     "service-worker.js": "/nvuhung.github.io/service-worker.js",
     "static/css/main.b4ba5114.chunk.css.map": "/nvuhung.github.io/static/css/main.b4ba5114.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.404d1518.js",
     "static/js/2.2e088c17.chunk.js",
     "static/css/main.b4ba5114.chunk.css",
-    "static/js/main.4d074561.chunk.js"
+    "static/js/main.bc52d1bf.chunk.js"
   ]
 }
