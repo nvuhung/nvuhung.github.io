@@ -68,7 +68,8 @@ export const data = {
     'Docker',
     'Clean Code',
     'Web Services',
-    'Design Pattern'
+    'Design Pattern',
+    'Flutter'
   ],
   educations: [
     {
@@ -204,7 +205,7 @@ export const data = {
       time: 'Apr 2019 - Jul 2019',
       description: 'Working as a backend developer. Building a web application for influencers',
       projects: [],
-      technologies_used: ['NestJS', 'Typescript', 'MongoDB', 'Social APIs']
+      technologies_used: ['NestJS', 'Typescript', 'MongoDB', 'Social APIs', 'NodeJS']
     }
   ]
 }
