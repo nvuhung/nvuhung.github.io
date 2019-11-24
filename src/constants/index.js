@@ -16,7 +16,7 @@ export const data = {
       icon: 'fab fa-github-alt fa-fw'
     },
     {
-      link: 'http://nvuhung.info',
+      link: 'https://nvuhung.info',
       content: 'nvuhung.info',
       icon: 'fas fa-globe'
     },
