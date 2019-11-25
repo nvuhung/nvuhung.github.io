@@ -4,7 +4,7 @@ import { data } from './constants'
 const Header = ({ data }) => (
   <header className="resume-header pt-4 pt-md-0">
     <div className="media flex-column flex-md-row">
-      <img className="mr-3 img-fluid picture mx-auto" src="/images/avatar.jpg" alt="" />
+      <img className="mr-3 img-fluid picture mx-auto" src="/avatar.jpg" alt="Avatar" />
       <div className="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
         <div className="primary-info">
           <h1 className="name mt-0 mb-1 text-white text-uppercase text-uppercase">{data.name}</h1>
